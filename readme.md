@@ -6,3 +6,5 @@ Original iUFL (python2) is available at [https://github.com/MiroK/ufl-interprete
 This version is an adaptation of the original codes that fits python3 and Fenics2019.1.0.
 
 In particular, it fits `UserExpressions`.
+
+Download use `pip install .` to use it.
